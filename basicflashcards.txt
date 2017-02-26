@@ -1,0 +1,4 @@
+{"front":"How much wood would a woodchuck chuck if a woodchuck could chuck wood?","back":"A woodhuck would chuck as much wood as a woodchuck could chuck."}
+{"front":"This is the tallest building in the United States.","back":"One World Trade Center"}
+{"front":"This is the name of a famous 18th century German composer as well as the star in 90s film about a dog.","back":"Beethoven"}
+{"front":"This man, the tallest man on record, measured 8ft 11in tall.","back":"Robert Wadlow"}

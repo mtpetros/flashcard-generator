@@ -1,0 +1,4 @@
+{"text1":"","text2":"was the 16th president of the United States.","cloze":"Abraham Lincoln"}
+{"text1":"In 1492,","text2":"landed in Hispaniola.","cloze":"Christopher Columbus"}
+{"text1":"","text2":"was the first European to land in North America.","cloze":"Leif Erikson"}
+{"text1":"The French and","text2":"War resulted in the signing of the Treaty of Paris in 1763.","cloze":"Indian"}
